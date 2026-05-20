@@ -1,0 +1,8 @@
+# Secrets
+*.key
+.env
+secrets/
+.hermes/secrets/
+
+# Reports with API keys
+reports/
